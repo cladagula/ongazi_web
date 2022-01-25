@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://demo.ongazi.com"
-title = "Acedemia Ongazi | Cursos de Acceso a las Universidades en España"
+title = "Academia Ongazi | Cursos de Acceso a las Universidades en España"
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "ongazi" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
