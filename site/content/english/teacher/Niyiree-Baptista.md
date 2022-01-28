@@ -6,13 +6,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Licenciada en Historia | Licenciada en Educación"
 # teacher portrait
-image: "images/teachers/Niyireé-Baptista.jpg"
+image: "images/teachers/Niyiree-Baptista.jpg"
 # course
 course: "Lengua Castellana y Literatura"
 # biography
 bio: ""
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Letras","Nuevas Tecnologías"]
 # contact info
 contact:
   # contact item loop

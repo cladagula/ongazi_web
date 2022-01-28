@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Diseñadora Gráfica"
 # teacher portrait
-image: "images/teachers/Isabel-Nuñez.jpg"
+image: "images/teachers/Isabel-Nunez.jpg"
 # course
 course: "Diseño"
 # biography

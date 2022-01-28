@@ -21,7 +21,6 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  # speaker loop
   - name : "Andres Villada"
     image : "images/teachers/Andres-Villada_1.jpg"
     designation : "Profesor Dibujo Técnico"
@@ -33,7 +32,7 @@ speaker:
 
   # speaker loop
   - name : "Brenda Gómez"
-    image : "images/teachers/Brenda-Gómez_1.jpg"
+    image : "images/teachers/Brenda-Gomez_1.jpg"
     designation : "Profesora Geología"
 
   # speaker loop
@@ -48,7 +47,7 @@ speaker:
 
 # speaker loop
   - name : "Isabel Nuñez"
-    image : "images/teachers/Isabel-Nuñez_1.jpg"
+    image : "images/teachers/Isabel-Nunez_1.jpg"
     designation : "Profesora Diseño"
 
  # speaker loop
@@ -63,8 +62,8 @@ speaker:
     
  # speaker loop
   - name : "Niyireé Baptista"
-    image : "images/teachers/Niyireé-Baptista_1.jpg"
-    designation : "Profesora Lengua Castellana y Literatura" 
+    image : "images/teachers/Niyiree-Baptista_1.jpg"
+    designation : "Profesora Lengua Castellana y Literatura"    
 # type
 type: "event"
 ---

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Licenciada en Geografía"
 # teacher portrait
-image: "images/teachers/Brenda-Gómez.jpg"
+image: "images/teachers/Brenda-Gomez.jpg"
 # course
 course: "Geología"
 # biography
