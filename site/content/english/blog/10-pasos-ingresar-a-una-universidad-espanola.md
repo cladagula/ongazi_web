@@ -114,3 +114,5 @@ Cabe destacar que estos pasos están explicados conforme a los criterios de acce
 Posiblemente esta información pudiera cambiar. Por lo que iremos actualizando estos criterios tan pronto como se publiquen y sean oficiales.
 
 ¡Cualquier duda que tengas no dudes en contactarnos!
+
+---
