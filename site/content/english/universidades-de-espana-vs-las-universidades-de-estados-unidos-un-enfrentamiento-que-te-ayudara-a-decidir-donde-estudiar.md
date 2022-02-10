@@ -1,7 +1,7 @@
 ---
 title: "Universidades de España vs las universidades de Estados Unidos, un enfrentamiento que te ayudará a decidir dónde estudiar"
 date: 2020-06-22T15:27:17+01:00
-draft: false
+draft: 
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
