@@ -1,7 +1,7 @@
 ---
 title: "10 pasos para ingresar a una universidad española"
 date: 2020-06-02T15:27:17+01:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
