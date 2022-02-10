@@ -172,7 +172,7 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "Blog"
-url = "https:ongazi.com/blog"
+url = "https://ongazi.com/blog"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -182,7 +182,7 @@ weight = 5
 
 [[Languages.en.menu.main]]
 name = "Iniciar Sesión"
-url = "https://app.ongazi.com"
+url = "https://app.ongazi.com/"
 weight = 6
 
 # footer menu
