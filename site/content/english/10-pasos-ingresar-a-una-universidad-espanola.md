@@ -1,7 +1,7 @@
 ---
 title: "10 pasos para ingresar a una universidad española"
 date: 2020-06-02T15:27:17+01:00
-draft: 
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
@@ -15,6 +15,7 @@ categories: ["Noticias", "Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
 type: "post"
+aliases: [/10-pasos-ingresar-a-una-universidad-espanola]
 ---
 
 Estudiar en España es una experiencia maravillosa. Posiblemente estás leyendo este post porque quieres o te interesa ir a estudiar la universidad a España. Pero ¿conoces qué debes hacer para ingresar a una universidad española?
@@ -114,3 +115,5 @@ Cabe destacar que estos pasos están explicados conforme a los criterios de acce
 Posiblemente esta información pudiera cambiar. Por lo que iremos actualizando estos criterios tan pronto como se publiquen y sean oficiales.
 
 ¡Cualquier duda que tengas no dudes en contactarnos!
+
+---
