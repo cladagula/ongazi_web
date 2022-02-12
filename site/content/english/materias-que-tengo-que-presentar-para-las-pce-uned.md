@@ -14,7 +14,7 @@ author: "Nerlis Moreau"
 categories: ["Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
-type: "post0"
+type: "post1"
 ---
 
 Es posible que dentro de tantas interrogantes con respecto a los requisitos que necesitas para ingresar a una universidad española, está una pregunta muy importante: **¿Qué materias PCE UNED tengo que estudiar para una determinada carrera?**
@@ -68,16 +68,7 @@ Siempre es bueno indagar más acerca de la universidad a la que deseas acceder p
 
 ![Example image](/static/images/blog/post-5/post-5.1.jpg)
 
-{{< figure src="/static/images/blog/post-5/post-5.1.jpg" title="Steve Francia" >}}
 
-[![An old rock in the desert](/static/images/blog/post-5/post-5.1.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
-
-
-<p><img src="/static/images/blog/post-5/post-5.1.jpg" alt="" /></p>
-
-{{< tweet 877500564405444608 >}}
-
-<a href="https://en.wikipedia.org/wiki/Hobbit#Lifestyle" title="Hobbit lifestyles">hobbit-hole</a>
 
 {{< highlight html >}}
 ### ¡ATENCIÓN!

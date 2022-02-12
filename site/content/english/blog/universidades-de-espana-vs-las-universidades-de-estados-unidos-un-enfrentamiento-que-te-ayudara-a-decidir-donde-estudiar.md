@@ -14,7 +14,7 @@ author: "Nerlis Moreau"
 categories: ["Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
-type: "post"
+type: "post0"
 ---
 
 ¿Por qué los estudiantes internacionales eligen estudiar en universidades en España en lugar de las universidades en Estados Unidos?

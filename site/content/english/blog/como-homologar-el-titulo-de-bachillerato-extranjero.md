@@ -14,7 +14,7 @@ author: "Nerlis Moreau"
 categories: ["Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
-type: "post"
+type: "post0"
 ---
 
 Si estás decidido a realizar tus estudios universitarios en una universidad española, entonces este post te ayudará a agilizar ese proceso. Uno de los pasos básicos para que [ingreses en una universidad en España]({{< ref "/10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española") es homologar el título de bachillerato.

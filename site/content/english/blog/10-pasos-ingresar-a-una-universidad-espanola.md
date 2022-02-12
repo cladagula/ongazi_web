@@ -14,7 +14,7 @@ author: "Nerlis Moreau"
 categories: ["Noticias", "Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
-type: "post"
+type: "post0"
 ---
 
 Estudiar en España es una experiencia maravillosa. Posiblemente estás leyendo este post porque quieres o te interesa ir a estudiar la universidad a España. Pero ¿conoces qué debes hacer para ingresar a una universidad española?

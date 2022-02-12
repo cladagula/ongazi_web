@@ -14,7 +14,7 @@ author: "Nerlis Moreau"
 categories: ["Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
 # type
-type: "post"
+type: "post0"
 ---
 
 Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar la universidad en España, es presentar las PCE (Pruebas de Competencias Específicas) y nosotros te vamos contar todo lo que necesitas saber, acerca de estos exámenes convocados por la UNED (Universidad Nacional de Educación a Distancia) https://www.uned.es.
