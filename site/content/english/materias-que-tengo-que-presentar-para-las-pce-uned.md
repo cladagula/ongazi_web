@@ -66,11 +66,110 @@ Siempre es bueno indagar más acerca de la universidad a la que deseas acceder p
 
 ### **Tipos de Prueba**
 
-![Example image](/static/images/blog/post-5/post-5.1.jpg)
+![Example image](/static/images/blog/post-5.1.jpg)
+
+### EVAU o EBAU
+
+Es una prueba que la realizan en unas pocas regiones de España -como Andalucía y Castilla- para estudiantes con **bachiller español.**
+
+Se caracteriza por 2 cosas: hacer el examen en la propia universidad y examinarse hasta **6 asignaturas**. Estas materias se clasifican en:
+
+#### Fase General
+
+1. • Lengua
+
+2. • Inglés
+
+3. • Historia de España
+
+4. • Matemáticas II / CCSS o Fundamentos de Arte (Esta 4ta materia dependerá de qué itinerario quieras cumplir: como Ciencias, Sociales, Ingeniería, Artes y Humanidades)
+
+#### Fase Específica
+
+Servirá para elevar la nota hasta 4 puntos más. Tendrás que hacer materias relativas a esa rama de estudio que has decidido elegir.
 
 
+> ### ¡ATENCIÓN!
+>*Por eso la importancia de tener claro antes de iniciar el camino qué carrera queremos estudiar.*
 
-{{< highlight html >}}
-### ¡ATENCIÓN!
-Por eso la importancia de tener claro antes de iniciar el camino qué carrera queremos estudiar.
-{{< /highlight >}}
+**Ciencia**
+1. • Biología
+
+2. • Química
+
+**Ingeniería**
+1. • Física
+
+2. • Dibujo Técnico
+
+**Sociales**
+1. • Geografía
+
+2.  • Economía
+
+**Humanidades**
+1. • HA del Arte
+
+2. • Filosofía
+
+---
+
+### PCE UNED
+
+Como te mencionamos, se realiza a los estudiantes extranjeros y es la prueba acogida por la gran mayoría de las universidades españolas.
+
+En este caso, no tienes que hacer las pruebas dentro de la universidad donde quieres estudiar, sino que te examinarás en las diferentes sedes de la UNED dispuestas alrededor del mundo dependiendo en donde te encuentres.
+
+La UNED hace de entidad examinadora para las universidades, dándoles después las calificaciones que hayas obtenido para que las evalúen y te permitan el ingreso.
+
+#### Criterios de acceso en las 3 regiones de España donde hay más afluencia de estudiantes
+
+#### Cataluña
+
+Podemos encontrar universidades que te pidan hasta 6 asignaturas. Esto hace que la configuración de Selectividad que tienes que tomar sea similar a la EBAU, por lo que tendrá el mismo formato.
+
+Deberás presentar una Fase General y una Fase Específica, que dependerá de a qué carrera universitaria quieras acceder.
+
+**Fase General**
+
+1. Lengua
+
+2. Inglés
+
+3. Historia de España
+
+4. Matemáticas II / Mat. CCSS / Fundamentos de Arte
+
+**Fase Específica**
+
+Servirá para obtener la máxima nota. En ocasiones solo basta con presentar las materias de la Fase General. No obstante, te recomendamos que, si la nota de corte de tu carrera elegida tiene una nota superior a 8, es preferible que hagas la fase específica también.
+
+**Ciencia**
+
+1. Biología
+
+2. Química
+
+**Ingeniería**
+
+1. Física
+
+2. Dibujo Técnico
+
+**Sociales**
+
+1. Geografía
+
+2. Economía
+
+**Humanidades**
+
+1. HA del Arte
+
+2. Filosofía
+
+#### La Comunidad de Madrid
+
+Se solicitan 4 asignaturas PCE de las que tienes que aprobar 3 para marcar un requisito específico de esta región que se denomina la Modalidad de Bachillerato. Si no cumple con este criterio no podrás acceder a la universidad.
+
+Tienes que aprobar 1 materia de Troncal General, 1 materia de Troncal de Opción y 1 Materia según la vía.
