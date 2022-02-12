@@ -58,21 +58,22 @@ En este breve resumen conocerás de cuántas materias como mínimo tendrías que
 
 ### Diferencia de criterios de admisión
 
-• Universidades que admiten la acreditación UNEDasiss sin más requisitos: Comunidad Valenciana, Extremadura, La Rioja, Islas Canarias.
+Universidades que admiten la acreditación UNEDasiss sin más requisitos: Comunidad Valenciana, Extremadura, La Rioja, Islas Canarias.
 
-• Universidades que admiten la acreditación UNEDasiss, pero con requisitos adicionales:
+Universidades que admiten la acreditación UNEDasiss, pero con requisitos adicionales:
 
-  - - • Modalidad de Bachillerato: Madrid, León, Burgos, Salamanca y Valladolid.
+1. • Modalidad de Bachillerato: Madrid, León, Burgos, Salamanca y Valladolid.
+
   
-  - - • Número mínimo de 2 PCE superadas: Región de Murcia.
+2. • Número mínimo de 2 PCE superadas: Región de Murcia.
 
-• Universidades que exigen EBAU
+Universidades que exigen EBAU
 
-  - - • Que utilizan la NMB que facilita la UNED: Cataluña, Zaragoza, Oviedo, Castilla-La Mancha, Illes Ballears, Navarra.
+1. • Que utilizan la NMB que facilita la UNED: Cataluña, Zaragoza, Oviedo, Castilla-La Mancha, Illes Ballears, Navarra.
 
-  - - • Que no utilizan la NMB de la UNED y realizan sus cálculos o exigen tener la homologación del bachillerato: Andalucía, Cantabria, País Vasco.
+2. • Que no utilizan la NMB de la UNED y realizan sus cálculos o exigen tener la homologación del bachillerato: Andalucía, Cantabria, País Vasco.
 
-• Universidades que utilizan la credencial de homologación más PCE: Galicia.
+Universidades que utilizan la credencial de homologación más PCE: Galicia.
 
 Siempre es bueno indagar más acerca de la universidad a la que deseas acceder para confirmar la información acerca de las materias que tienes que escoger. Por eso la importancia de tener claro antes de iniciar el camino qué carrera queremos estudiar, ya que cada universidad tiene sus propios requisitos.
 
@@ -80,7 +81,7 @@ Siempre es bueno indagar más acerca de la universidad a la que deseas acceder p
 
 ### **Tipos de Prueba**
 
-![](/images/blog/post-51.jpg "Fotografía por freepik.es")
+![](/images/blog/post-5_1.jpg "Fotografía por freepik.es")
 
 ### EVAU o EBAU
 
@@ -92,9 +93,12 @@ Se caracteriza por 2 cosas: hacer el examen en la propia universidad y examinars
 
 1. • Lengua
 
+
 2. • Inglés
 
+
 3. • Historia de España
+
 
 4. • Matemáticas II / CCSS o Fundamentos de Arte (Esta 4ta materia dependerá de qué itinerario quieras cumplir: como Ciencias, Sociales, Ingeniería, Artes y Humanidades)
 
@@ -103,25 +107,30 @@ Se caracteriza por 2 cosas: hacer el examen en la propia universidad y examinars
 Servirá para elevar la nota hasta 4 puntos más. Tendrás que hacer materias relativas a esa rama de estudio que has decidido elegir.
 
 
-> ### ¡ATENCIÓN!
->*Por eso la importancia de tener claro antes de iniciar el camino qué carrera queremos estudiar.*
+##### `¡ATENCIÓN!`
+
+##### `Por eso la importancia de tener claro antes de iniciar el camino qué carrera queremos estudiar.`
 
 **Ciencia**
+
 1. • Biología
 
 2. • Química
 
 **Ingeniería**
+
 1. • Física
 
 2. • Dibujo Técnico
 
 **Sociales**
+
 1. • Geografía
 
 2.  • Economía
 
 **Humanidades**
+
 1. • HA del Arte
 
 2. • Filosofía
@@ -136,6 +145,8 @@ En este caso, no tienes que hacer las pruebas dentro de la universidad donde qui
 
 La UNED hace de entidad examinadora para las universidades, dándoles después las calificaciones que hayas obtenido para que las evalúen y te permitan el ingreso.
 
+---
+
 #### Criterios de acceso en las 3 regiones de España donde hay más afluencia de estudiantes
 
 #### Cataluña
@@ -146,13 +157,13 @@ Deberás presentar una Fase General y una Fase Específica, que dependerá de a 
 
 **Fase General**
 
-1. Lengua
+1. • Lengua
 
-2. Inglés
+2. • Inglés
 
-3. Historia de España
+3. • Historia de España
 
-4. Matemáticas II / Mat. CCSS / Fundamentos de Arte
+4. • Matemáticas II / Mat. CCSS / Fundamentos de Arte
 
 **Fase Específica**
 
@@ -160,30 +171,110 @@ Servirá para obtener la máxima nota. En ocasiones solo basta con presentar las
 
 **Ciencia**
 
-1. Biología
+1. • Biología
 
-2. Química
+2. • Química
 
 **Ingeniería**
 
-1. Física
+1. • Física
 
-2. Dibujo Técnico
+2. • Dibujo Técnico
 
 **Sociales**
 
-1. Geografía
+1. • Geografía
 
-2. Economía
+2. • Economía
 
 **Humanidades**
 
-1. HA del Arte
+1. • HA del Arte
 
-2. Filosofía
+2. • Filosofía
+
+---
 
 #### La Comunidad de Madrid
 
 Se solicitan 4 asignaturas PCE de las que tienes que aprobar 3 para marcar un requisito específico de esta región que se denomina la Modalidad de Bachillerato. Si no cumple con este criterio no podrás acceder a la universidad.
 
 Tienes que aprobar 1 materia de Troncal General, 1 materia de Troncal de Opción y 1 Materia según la vía.
+
+![](/images/blog/post-5_2.jpg)
+
+Te daremos unos ejemplos para que aprecies mejor los itinerarios según las carreras:
+
+Si quieres estudiar filología hispánica. El itinerario sería de Humanidades que le correspondería:
+
+* • Lengua
+
+* • Inglés
+
+* • Filosofía
+
+* • Historia del Arte.
+
+Si quieres estudiar Medicina. El itinerario sería de Ciencias que le correspondería es:
+
+* • Inglés
+
+* • Matemáticas II
+
+* • Biología
+
+* • Química
+
+Si quieres estudiar arquitectura. El itinerario de Ingeniería que le correspondería:
+
+* • Inglés
+
+* • Matemáticas II
+
+* • Física
+
+* • Dibujo Técnico
+
+Si quieres estudiar Administración de Empresas. El itinerario sería de Sociales que le correspondería:
+
+* • Lengua
+
+* • Matemáticas CCSS
+
+* • Geografía
+
+* • Economía
+
+---
+
+#### Galicia
+
+Es quizás la región de España donde es más fácil ingresar a la universidad siendo bachiller extranjero. Solamente te exigen 2 asignaturas PCE, siendo estas las materias específicas de cada modalidad.
+
+**Ciencia**
+
+1. • Biología
+
+2. • Química
+
+**Ingeniería**
+
+1. • Física
+
+2. • Dibujo Técnico
+
+**Sociales**
+
+1. • Geografía
+
+2. • Economía
+
+**Humanidades**
+
+1. • HA del Arte
+
+2. • Filosofía
+
+Teniendo desde un principio el conocimiento acerca de qué materias PCE tienes que hacer, de cuántas asignaturas debes examinarte y dónde quieres hacer tu carrera universitaria, te ahorrará tiempo y posibles inconvenientes que puedan afectar iniciar el año en la universidad.
+
+---

@@ -6,6 +6,9 @@
     },
     {
       "path": "[[workspace]]/static/images"
+    },
+    {
+      "path": "[[workspace]]/static/images/blog"
     }
   ]
 }
