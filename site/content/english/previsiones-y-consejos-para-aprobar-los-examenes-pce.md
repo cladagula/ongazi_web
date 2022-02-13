@@ -25,7 +25,7 @@ Lo interesante de estos útiles consejos es que no se trata de algo extraordinar
 
 Evita inconvenientes y presta atención a lo que te vamos contar a continuación:
 
----
+* * *
 
 ### Previsiones antes de la prueba
 
@@ -33,23 +33,23 @@ Evita inconvenientes y presta atención a lo que te vamos contar a continuación
 
 Se puede afirmar que la acumulación de pruebas puede generar una sensación de nerviosismo, que hasta te cuesta dormir. Por lo que te recomiendo que trates de presentarte a la prueba relajado y descansado.
 
--   1  **Chequea tu inscripción**, verifica tus claves y perfil de UNEDASISS, ya que a través de este portal podrás verificar los resultados de tus notas o solicitar alguna reclamación.
+-   1-  **Chequea tu inscripción**, verifica tus claves y perfil de UNEDASISS, ya que a través de este portal podrás verificar los resultados de tus notas o solicitar alguna reclamación.
 
--   2 Imprime y lleva contigo el **resguardo UNEDASISS**. Este documento que tiene un código de barra que te identifica es necesario presentarlo para entrar en un aula UNED durante los días de presentación de los exámenes.
+-   2- Imprime y lleva contigo el **resguardo UNEDASISS**. Este documento que tiene un código de barra que te identifica es necesario presentarlo para entrar en un aula UNED durante los días de presentación de los exámenes.
 
--   3 Te exigen en cada prueba presentar tu **documento de identificación** Pasaporte, NIE o DNI.
+-   3- Te exigen en cada prueba presentar tu **documento de identificación** Pasaporte, NIE o DNI.
 
--   4 Asegúrate de llevar varios **bolígrafos y todos los materiales** que puedas necesitar, y que son permitidos para cada asignatura, para poder resolver el examen. Por ejemplo, calculadora científica, instrumentos de dibujo, etc.
+-   4- Asegúrate de llevar varios **bolígrafos y todos los materiales** que puedas necesitar, y que son permitidos para cada asignatura, para poder resolver el examen. Por ejemplo, calculadora científica, instrumentos de dibujo, etc.
 
--   5 **Llega puntual** a la presentación de las pruebas y asegúrate de saber exactamente el lugar donde se realizan. Esta información la encuentras al respaldo del resguardo UNEDASISS.
+-   5- **Llega puntual** a la presentación de las pruebas y asegúrate de saber exactamente el lugar donde se realizan. Esta información la encuentras al respaldo del resguardo UNEDASISS.
 
--   6 Es importante que en todo momento prestes mucha atención a las indicaciones de las personas examinadores.
+-   6- Es importante que en todo momento prestes mucha atención a las indicaciones de las personas examinadores.
 
--   7 Al momento de entrar en el recinto para presentar las pruebas exigen silencio absoluto. El tribunal examinador está en la capacidad legal de expulsar de la prueba a cualquier estudiante que incumpla las normas de comportamiento y corrección.
+-   7- Al momento de entrar en el recinto para presentar las pruebas exigen silencio absoluto. El tribunal examinador está en la capacidad legal de expulsar de la prueba a cualquier estudiante que incumpla las normas de comportamiento y corrección.
 
--   8 Para respetar la igualdad de oportunidades y evitar cualquier tipo de influencia que pueda privilegiar a los estudiantes, no puedes escribir tu nombre en ninguna hoja del examen.
+-   8- Para respetar la igualdad de oportunidades y evitar cualquier tipo de influencia que pueda privilegiar a los estudiantes, no puedes escribir tu nombre en ninguna hoja del examen.
 
----
+* * *
 
 ### Durante la prueba
 
@@ -57,25 +57,25 @@ La duración de los exámenes es de **90 minutos**. Aplicando una buena estrateg
 
 #### Consejos durante la prueba:
 
-- 1 Dale un **vistazo rápido** al examen para que veas la extensión de las preguntas y tengas un esquema, y una estrategia aproximada de cómo puedes resolverlo.
+-   1- Dale un **vistazo rápido** al examen para que veas la extensión de las preguntas y tengas un esquema, y una estrategia aproximada de cómo puedes resolverlo.
 
-- 2 **Lee detalladamente** cada uno de los enunciados.
+-   2- **Lee detalladamente** cada uno de los enunciados.
 
-- 3 **Distribuye bien el tiempo** para cada uno de los ejercicios.
+-   3- **Distribuye bien el tiempo** para cada uno de los ejercicios.
 
-- 4 **Responde primero todas las preguntas que te sepas**, para que desde el inicio empieces a sumar puntos y generar confianza en ti mismo.
+-   4- **Responde primero todas las preguntas que te sepas**, para que desde el inicio empieces a sumar puntos y generar confianza en ti mismo.
 
-- 5 **Realiza esquemas, cálculos y borradores** en las hojas destinadas para tus respuestas. La presentación del examen debe ser clara y ordenada. De esta manera facilitas la lectura del examinador y elevas la percepción del corrector.
+-   5- **Realiza esquemas, cálculos y borradores** en las hojas destinadas para tus respuestas. La presentación del examen debe ser clara y ordenada. De esta manera facilitas la lectura del examinador y elevas la percepción del corrector.
 
-- 6 Emplea en tus respuestas un **vocabulario técnico adecuado**. Cuida la ortografía, los signos de puntuación y la sintaxis.
+-   6- Emplea en tus respuestas un **vocabulario técnico adecuado**. Cuida la ortografía, los signos de puntuación y la sintaxis.
 
-- 7 Sé conciso y **responde solamente a lo que se te pregunta**, porque no te darán más puntuación por adornar tu respuesta.
+-   7- Sé conciso y **responde solamente a lo que se te pregunta**, porque no te darán más puntuación por adornar tu respuesta.
 
-- 8 En caso de ser necesario, **argumenta tus respuestas y justifícalas**, si es posible con ejemplos.
+-   8- En caso de ser necesario, **argumenta tus respuestas y justifícalas**, si es posible con ejemplos.
 
-- 9 En las **preguntas tipo test responde solo las que consideres que tienen un grado de incertidumbre bajo, ya que responder al azar, por cada respuesta incorrecta se te restarán puntos.**
+-   9- En las **preguntas tipo test responde solo las que consideres que tienen un grado de incertidumbre bajo, ya que responder al azar, por cada respuesta incorrecta se te restarán puntos.**
 
----
+* * *
 
 #### Presta atención si te ocurre alguno de estos casos:
 
@@ -85,4 +85,4 @@ La duración de los exámenes es de **90 minutos**. Aplicando una buena estrateg
 
 No olvides estos valiosos consejos para que presentes con éxito las pruebas que te llevarán a estudiar a la universidad española que tanto anhelas. Igualmente nuestro equipo de soporte de Ongazi está preparado para asesorarte ante cualquier duda que tengas, solo déjanos tus comentarios aquí.
 
----
+* * *

@@ -18,7 +18,7 @@ type: "post1"
 
 ---
 
-Estudiar en España es una experiencia maravillosa. Posiblemente estás leyendo este post porque quieres o te interesa ir a estudiar la universidad a España. Pero ¿conoces qué debes hacer para ingresar a una universidad española?
+Estudiar en España es una experiencia maravillosa. Posiblemente estás leyendo este post porque quieres o te interesa ir a estudiar la universidad a España. Pero **¿conoces qué debes hacer para ingresar a una universidad española?**
 
 No te angusties si no sabes por dónde empezar. Estamos aquí para ayudarte en este emocionante viaje.
 
@@ -41,9 +41,9 @@ Cuando leas estos 10 pasos, en los que te explicaremos toda la información nece
 
 Completar tus estudios de bachillerato en tu país de origen es un requisito fundamental, si planeas ingresar a una universidad española. Además, debes apostillarlo y traducirlo de ser necesario.
 
-Si vives en un país que no pertenece a la UE, tendrás que examinarte de un máximo de 6 materias. Siendo para Galicia 2 asignaturas y para Madrid 4.
+Si vives en un **país que no pertenece a la UE**, tendrás que examinarte de un máximo de **6 materias**. Siendo para Galicia 2 asignaturas y para Madrid 4.
 
-Si vives en un país perteneciente a la UE, China o tienes un bachillerato internacional -el cual es un bachillerato expedido solo por algunos países- el formato de acceso es distinto. Solamente tienes que realizar 2 asignaturas.
+Si vives en un **país perteneciente a la UE, China o tienes un bachillerato internacional** -el cual es un bachillerato expedido solo por algunos países- el formato de acceso es distinto. Solamente tienes que realizar **2 asignaturas**.
 
 #### 2. Tramitar la homologación
 
@@ -53,32 +53,35 @@ Este paso es imprescindible para ingresar a una universidad española y comenzar
 
 En este paso debes considerar varias puntos importantes que te ayudarán al éxito de ingresar a una universidad española. Es fundamental destacar que las universidades tienen criterios distintos.
 
-Saber qué y dónde quieres estudiar, definirá de qué itinerario tendrás que examinarte en las pruebas de acceso.
-Conocer la nota de corte del estudio que quieres hacer, te permitirá tener una orientación del puntaje que debes obtener.
-Marcar modalidad es algo obligatorio en Madrid. No obstante, no es necesario realizarlo si quieres estudiar en otra Comunidad Autónoma.
+ • Saber qué y dónde quieres estudiar, definirá de qué itinerario tendrás que examinarte en las pruebas de acceso.
+
+ • Conocer la nota de corte del estudio que quieres hacer, te permitirá tener una orientación del puntaje que debes obtener.
+
+ • Marcar modalidad es algo obligatorio en Madrid. No obstante, no es necesario realizarlo si quieres estudiar en otra Comunidad Autónoma.
 
 #### 4. Empezar estudiar
 
 Para lograr tu objetivo tienes que prepararte y organizarte con un buen plan de estudio. Asimilar y comprender el temario requiere tiempo y dedicación.
 
-Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En Ongazi tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
+Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En https://ongazi.com tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
 
  
 
 ### Listo para ingresar a una universidad española
 
 #### 5. Inscribirme para los exámenes
-Este proceso de inscripción se realiza directamente por la página web de la UNED. La prueba se llama Pruebas de Competencias Específicas (PCE), que generalmente se realizan a partir del mes de marzo/abril y julio en la convocatoria extraordinaria.
+
+Este proceso de inscripción se realiza **directamente por la página web de la UNED**. La prueba se llama Pruebas de Competencias Específicas (PCE), que generalmente se realizan a partir del mes de **marzo/abril** y **julio** en la convocatoria extraordinaria.
 
 Qué te piden:
 
-* datos personales.
+*  • datos personales.
 
-* el certificado o volante de homologación del bachillerato.
+*  • el certificado o volante de homologación del bachillerato.
 
-* las notas del bachillerato en tu país (en caso de no tener dicha homologación finalizada).
+*  • las notas del bachillerato en tu país (en caso de no tener dicha homologación finalizada).
 
-* certificado de idioma (en caso de tenerlo).
+*  • certificado de idioma (en caso de tenerlo).
 
 Cobra especial relevancia presentarse siempre en la primera convocatoria, llamada ordinaria, dado el orden de prelación de plazas universitarias.
 
@@ -90,7 +93,7 @@ Deberás asistir al centro UNED que hayas elegido, siendo en mayo la fecha para 
 
 ### 7. Esperar la publicación de notas
 
-Generalmente este resultado suele durar de 3 a 4 semanas desde las fechas de los exámenes. La calificación final y ponderada se denomina credencial. Esta credencial, te servirá para poder aspirar plaza en las distintas universidades españolas, siempre que reconozcan a la UNED.
+Generalmente este resultado **suele durar de 3 a 4 semanas** desde las fechas de los exámenes. La calificación final y ponderada se denomina credencial. Esta credencial, te servirá para poder aspirar plaza en las distintas universidades españolas, siempre que reconozcan a la UNED.
 
 ### 8. Preinscribirme
 
@@ -102,13 +105,13 @@ Con la credencial y la nota de corte podrás evaluar si tienes la posibilidad de
 
 ### 9. Confirmar la plaza
 
-Esta notificación se realiza a mediados de julio. La universidad que te haya aceptado, te pedirá que abones las tasas del primer curso y procederás a realizar la inscripción final.
+Esta notificación se realiza a **mediados de julio**. La universidad que te haya aceptado, te pedirá que abones las tasas del primer curso y procederás a realizar la inscripción final.
 
 La mayoría de las universidades en España permiten el proceso de inscripción a distancia. Por lo que no es problema hacerla desde tu país, si vuelves después de la presentación de los exámenes. Sin embargo, este proceso te lo comunicará la propia universidad.
 
 ### 10. Iniciar el Grado
 
-Finalmente, para el mes de septiembre/octubre conocerás el emocionante mundo universitario, en el que vivirás nuevas experiencias. Pero lo más importante, no pierdas el foco de completar tu objetivo por el que tanto te esforzaste. Ahora, tu meta es aprender lo más y mejor que puedas para graduarte y ser un excelente profesional.
+**Finalmente**, para el mes de **septiembre/octubre conocerás el emocionante mundo universitario**, en el que vivirás nuevas experiencias. Pero lo más importante, no pierdas el foco de completar tu objetivo por el que tanto te esforzaste. Ahora, tu meta es aprender lo más y mejor que puedas para graduarte y ser un excelente profesional.
 
 Cabe destacar que estos pasos están explicados conforme a los criterios de acceso de la UNED y las universidades para el período 2019/2020.
 

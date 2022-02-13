@@ -18,11 +18,11 @@ type: "post1"
 
 ---
 
-¿Por qué los estudiantes internacionales eligen estudiar en universidades en España en lugar de las universidades en Estados Unidos?
+¿Por qué los estudiantes internacionales eligen estudiar en **universidades en España en lugar de las universidades en Estados Unidos?**
 
-En 2018, alrededor de 110.000 estudiantes acudieron a España, para emprender una experiencia de vida académica diferente (según un estudio hecho por Topuniversities.com).
+En 2018, alrededor de 110.000 estudiantes acudieron a España, para emprender una experiencia de vida académica diferente (según un estudio hecho por www.topuniversities.com).
 
-Esta cifra de estudiantes internacionales, que según la investigación va en aumento, nos deja la curiosidad de investigar ¿por qué España es un destino de estudio tan atractivo?
+Esta cifra de estudiantes internacionales, que según la investigación va en aumento, nos deja la curiosidad de investigar **¿por qué España es un destino de estudio tan atractivo?**
 
 Si tienes aspiraciones de embarcarte en el viaje académico de tu vida, probablemente estés pensando cuáles pueden ser tus opciones.
 
@@ -34,7 +34,7 @@ Aunque son varias las diferencias entre el sistema educativo universitario espa�
 
 Por el contrario, queremos ofrecerte información de por qué estudiar y vivir en el Reino de España, es una excelente opción, si lo comparamos con Estados Unidos.
 
-Te queremos dar buenos tips, que, sin duda, te animarán a estudiar la universidad en España, y no solo se trata de su clima mediterráneo, sus amigables lugareños o su espectacular gastronomía.
+Te queremos dar buenos tips, que, sin duda, te animarán a **estudiar la universidad en España**, y no solo se trata de su clima mediterráneo, sus amigables lugareños o su espectacular gastronomía.
 
 Si quieres descubrir más, sigue leyendo…
 
@@ -56,30 +56,32 @@ Además, en algunos casos, aprender un nuevo idioma, puede tener un impacto sign
 
 España tiene 45 universidades incluidas en el de Times Higher Education, con algunas de las más populares y mejor clasificadas -por mencionar solo algunas- con sede en:
 
-* Madrid (Universidad Complutense de Madrid)
+*  • Madrid (Universidad Complutense de Madrid)
 
-* Barcelona (Universitat de Barcelona)
+*  • Barcelona (Universitat de Barcelona)
 
-* Sevilla (Universidad de Sevilla)
+*  • Sevilla (Universidad de Sevilla)
 
-* Granada (Universidad de Granada)
+*  • Granada (Universidad de Granada)
 
 
 #### 2. El costo de la carrera y de vida
 
 El coste de los estudios universitarios es otra de las grandes diferencias entre los dos países.
 
-La tarifa anual promedio de matrícula pública para las universidades en los EE.UU. es de alrededor de $8,000. Mientras que, en las universidades de España, es de aproximadamente $2,000.
+La tarifa anual promedio de matrícula pública para las **universidades en los EE.UU.** es de alrededor de **$8,000**. Mientras que, en las **universidades de España**, es de aproximadamente **$2,000**.
 
 Por otro lado, aunque, las universidades privadas son más caras en ambos países, en España todavía siguen siendo menos costosas que las americanas.
 
 Otro de los motivos que contribuyen a la popularidad de España, entre los estudiantes internacionales es que, es relativamente barato vivir allí. El costo de los bienes y servicios es inferior a la media, en comparación con Estados Unidos, e incluso que otros países europeos.
 
-Según la cifra de la calculadora del costo de vida de Expatistan, es un 27% más caro vivir en los Estados Unidos que en España.
+Según la cifra de la calculadora del costo de vida de Expatistan, es un **27% más caro vivir en los Estados Unidos que en España**.
 
 Además, España te ofrece calidad de vida. Fue el segundo país más visitado del mundo en 2017, según la Organización Mundial del Turismo de las Naciones Unidas, lo que refleja una capacidad para atraer y emocionar difícil de rivalizar.
 
 #### 3. La vida en el campus y alojamiento
+
+![](/images/blog/post-2_1.jpeg "imagen de freepik.es por katemangostar")
 
 Estudiantes paseando por el campus
 imagen de freepik.es por katemangostar
@@ -97,31 +99,37 @@ En España tienes la opción de alojarte bien sea en las residencias universitar
 Te vamos a mencionar algunas de las estrategias que aplican las universidades de ambos países para que veas las diferencias. (Esp: España/ EEUU: Estados Unidos)
 
 ##### Estilo educativo
- (Esp) Procura una educación profesional.
 
- (EEUU) Procura conocimientos en diferentes campos de conocimiento.
+ (Esp) Procura una **educación profesional**.
+
+ (EEUU) Procura **conocimientos en diferentes campos de conocimiento**.
 
 ##### El Grado
+
 (Esp) Desde el primer curso, estás orientando tus estudios a una especialización en una parte del saber y te afilias a una facultad.
 
 (EEUU) No tienes que optar por una determinada especialidad. Normalmente lo haces al final del segundo año y puedes cambiarla.
 
 ##### Currículo
+
 (Esp) Todos los estudiantes se matriculan en un departamento con un currículo determinado por la universidad. Debes comenzar por el primer curso, y no puedes optar a otras asignaturas de cursos superiores. Un sistema más cómodo y organizado para el estudiante.
 
 (EEUU) Los estudiantes se matriculan en una universidad y toman cursos de diferentes departamentos con otros estudiantes. Tienes más flexibilidad para hacer una carrera “a medida” combinando diferentes especialidades. Pero, debes estar muy atento para que no se te escape inscribir las materias que necesitas cursar.
 
 ##### Relación entre los estudiantes
+
 (Esp) En un curso es cooperativa, te pasas los apuntes, formas grupos de estudio, etc. Puedes charlar con otros estudiantes en clase, interrumpiendo en ocasiones al profesor.
 
 (EEUU) Las clases se basan en un esfuerzo individual y es más competitivo. No tienes tanto margen de negociación con el profesor a nivel colectivo, aunque sí a nivel individual. No charlas con tus compañeros en clase, si no se les permite.
 
 ##### Evaluación
+
 (Esp) Se hace un examen final, aparte de que los trabajos realizados en clase, controles de lectura, presentaciones orales, que también cuentan, debes demostrar un conocimiento del material del curso y no un pensamiento crítico del mismo.
 
 (EEUU) Se hace un examen parcial (midterm) y un examen final, además de trabajos escritos que expresen pensamiento crítico o resolución de problemas. También el grado de participación individual puede afectar la nota final.
 
 ##### Obtener el Título
+
 (Esp) Debes haber cursado y aprobado un determinado número de asignaturas troncales y optativas, que cumpla una cantidad de créditos: número de horas. Cada 10 horas de clase, normalmente valen un crédito.
 
 (EEUU) Tienes que acumular un número de créditos determinados por tu carrera y repartidos entre asignaturas obligatorias y libres. Un crédito equivale a 15 horas de clase.
