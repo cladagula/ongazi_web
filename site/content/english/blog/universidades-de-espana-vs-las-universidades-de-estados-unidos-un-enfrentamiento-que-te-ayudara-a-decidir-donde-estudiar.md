@@ -3,11 +3,11 @@ title: "Universidades de España vs las universidades de Estados Unidos, un enfr
 date: 2020-06-22T15:27:17+01:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Las universidades de España vs USA ¿Por qué los estudiantes internacionales eligen estudiar en universidades en España en lugar de las de USA?"
 # post thumbnail
-image: "images/blog/post-2.jpg"
+image: "images/blog/post-2.webp"
 # post author
 author: "Nerlis Moreau"
 # taxonomy
@@ -81,7 +81,7 @@ Además, España te ofrece calidad de vida. Fue el segundo país más visitado d
 
 #### 3. La vida en el campus y alojamiento
 
-![](/images/blog/post-2_1.jpeg "imagen de freepik.es por katemangostar")
+![](/images/blog/post-2_1.webp "imagen de freepik.es por katemangostar")
 
 Estudiantes paseando por el campus
 imagen de freepik.es por katemangostar

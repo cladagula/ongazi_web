@@ -3,11 +3,11 @@ title: "Humanidades"
 date: 2022-01-03T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "La Ruta de Aprendizaje de Humanidades es una metodología de capacitación de carácter virtual, elaborada tanto para estudiantes españoles, como estudiantes extranjeros (procedentes de un sistema educativo distinto al español). Esta ruta contempla espacios de intercambio y análisis durante el proceso de formación de los alumnos."
 # course thumbnail
-image: "images/courses/humanidades.jpg"
+image: "images/courses/humanidades.webp"
 # taxonomy
 category: "Humanidades"
 # teacher

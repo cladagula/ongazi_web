@@ -3,11 +3,11 @@ title: "Ciencia Social"
 date: 2022-01-03T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "La Ruta de Aprendizaje de Ciencias Sociales es una metodología de capacitación de carácter virtual, elaborada tanto para estudiantes españoles, como estudiantes extranjeros (procedentes de un sistema educativo distinto al español). Esta ruta contempla espacios de intercambio y análisis durante el proceso de formación de los alumnos."
 # course thumbnail
-image: "images/courses/ciencias_sociales.jpg"
+image: "images/courses/ciencias_sociales.webp"
 # taxonomy
 category: "Ciencias"
 # teacher

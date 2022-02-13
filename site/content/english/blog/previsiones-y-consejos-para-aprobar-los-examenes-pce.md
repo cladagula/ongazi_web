@@ -2,9 +2,9 @@
 title: Previsiones y consejos para aprobar los exámenes PCE
 date: 2020-08-12T14:27:17.000Z
 draft: false
-bg_image: images/backgrounds/page-title.jpg
+bg_image: images/backgrounds/page-title.webp
 description: Este post te explicará las previsiones y algunos consejos que, si los aplicas, las posibilidades de aprobar los exámenes PCE son altas.
-image: images/blog/post-6.jpg
+image: images/blog/post-6.webp
 author: Nerlis Moreau
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
@@ -29,7 +29,7 @@ Evita inconvenientes y presta atención a lo que te vamos contar a continuación
 
 ### Previsiones antes de la prueba
 
-![](/images/blog/post-6_1.jpeg "Imagen de freepik.es por pressfoto")
+![](/images/blog/post-6_1.webp "Imagen de freepik.es por pressfoto")
 
 Se puede afirmar que la acumulación de pruebas puede generar una sensación de nerviosismo, que hasta te cuesta dormir. Por lo que te recomiendo que trates de presentarte a la prueba relajado y descansado.
 

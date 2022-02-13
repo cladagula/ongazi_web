@@ -2,9 +2,9 @@
 title: Materias que tengo que presentar para las PCE UNED
 date: 2020-07-25T14:27:17.000Z
 draft: false
-bg_image: images/backgrounds/page-title.jpg
+bg_image: images/backgrounds/page-title.webp
 description: ¿Planeas hacer tus estudios superiores en España? Estos 10 pasos para ingresar a una universidad española, te ofrecerán toda la info que necesitas saber.
-image: images/blog/post-5.jpg
+image: images/blog/post-5.webp
 author: Nerlis Moreau
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
@@ -72,7 +72,7 @@ Siempre es bueno indagar más acerca de la universidad a la que deseas acceder p
 
 ### **Tipos de Prueba**
 
-![](/images/blog/post-5_1.jpg "Fotografía por freepik.es")
+![](/images/blog/post-5_1.webp "Fotografía por freepik.es")
 
 ### EVAU o EBAU
 

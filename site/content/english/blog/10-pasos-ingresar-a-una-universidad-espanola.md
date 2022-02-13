@@ -3,11 +3,11 @@ title: "10 pasos para ingresar a una universidad española"
 date: 2020-06-02T15:27:17+01:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "¿Planeas hacer tus estudios superiores en España? Estos 10 pasos para ingresar a una universidad española, te ofrecerán toda la info que necesitas saber."
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/blog/post-1.webp"
 # post author
 author: "Nerlis Moreau"
 # taxonomy

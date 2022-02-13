@@ -3,11 +3,11 @@ title: "Cómo homologar el título de bachillerato extranjero"
 date: 2020-06-30T15:27:17+01:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "En este post sabrás cómo homologar el título de bachillerato extranjero.Si estás decidido a realizar tus estudios universitarios en una universidad española"
 # post thumbnail
-image: "images/blog/post-3.jpg"
+image: "images/blog/post-3.webp"
 # post author
 author: "Nerlis Moreau"
 # taxonomy
