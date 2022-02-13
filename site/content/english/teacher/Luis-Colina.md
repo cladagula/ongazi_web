@@ -2,11 +2,11 @@
 title: "Luis Colina"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Comunicador Social"
 # teacher portrait
-image: "images/teachers/Luis-Colina.jpg"
+image: "images/teachers/Luis-Colina.webp"
 # course
 course: "Historia de la Filosofía"
 # biography

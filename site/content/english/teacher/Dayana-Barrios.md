@@ -2,11 +2,11 @@
 title: "Dayana Barrios"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Licenciada en Química"
 # teacher portrait
-image: "images/teachers/Dayana-Barrios.jpg"
+image: "images/teachers/Dayana-Barrios.webp"
 # course
 course: "Química"
 # biography

@@ -2,11 +2,11 @@
 title: "Antonio Tely"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Ingeniero Electrico"
 # teacher portrait
-image: "images/teachers/Antonio-Tely.jpg"
+image: "images/teachers/Antonio-Tely.webp"
 # course
 course: "Ingés y Francés"
 # biography

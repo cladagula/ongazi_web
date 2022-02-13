@@ -1,36 +1,29 @@
 ---
-title: "Pruebas de Competencias Específicas (PCE), aprende todo lo importante acerca de ellas"
-date: 2020-07-12T15:27:17+01:00
+title: Pruebas de Competencias Específicas (PCE), aprende todo lo importante acerca de ellas
+date: 2020-07-12T14:27:17.000Z
 draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.webp"
-# meta description
-description : "Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar en España, es presentar las Pruebas de Competencias Específicas (PCE)"
-# post thumbnail
-image: "images/blog/post-4.webp"
-# post author
-author: "Nerlis Moreau"
-# taxonomy
-categories: ["Publicaciones"]
-tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
-# type
-type: "post1"
-
+bg_image: images/backgrounds/page-title.webp
+description: Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar en España, es presentar las Pruebas de Competencias Específicas (PCE)
+image: images/blog/post-4.webp
+author: Nerlis Moreau
+categories: [Publicaciones]
+tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
+type: post1
 ---
 
-Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar la universidad en España, es presentar las **PCE (Pruebas de Competencias Específicas)** y nosotros te vamos contar todo lo que necesitas saber, acerca de estos exámenes convocados por la **UNED (Universidad Nacional de Educación a Distancia)** https://www.uned.es.
+Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar la universidad en España, es presentar las **PCE (Pruebas de Competencias Específicas)** y nosotros te vamos contar todo lo que necesitas saber, acerca de estos exámenes convocados por la **UNED (Universidad Nacional de Educación a Distancia)** <https://www.uned.es>.
 
 Actualmente, en España existen dos tipos de acceso a las universidades:
 
-* 1 El que realizan los **alumnos con bachillerato español** llamado **Selectividad o EBAU (Evaluación del Bachillerato para el Acceso a la Universidad)**.
+-   1 El que realizan los **alumnos con bachillerato español** llamado **Selectividad o EBAU (Evaluación del Bachillerato para el Acceso a la Universidad)**.
 
-* 2 El que realizan los **alumnos con bachillerato extranjero** llamado **Pruebas de Competencias Específicas (PCE)**. 
+-   2 El que realizan los **alumnos con bachillerato extranjero** llamado **Pruebas de Competencias Específicas (PCE)**. 
 
 Las **Pruebas de Competencias Específicas** son evaluaciones que ofrece UNEDasiss de determinadas asignaturas, que los estudiantes deben realizar **para ingresar a una universidad en España**, o **mejorar su calificación** de admisión. Son el equivalente a los exámenes de EBAU.
 
 La UNED realiza dos **convocatorias de PCE** al año. La primera se desarrolla en los meses de **mayo/junio** y la segunda en **septiembre**. La importancia de que presentes las PCE es que te da la **Acreditación UNEDasiss**.
 
----
+* * *
 
 ### ¿Qué es la Acreditación UNEDasiss?
 
@@ -38,25 +31,25 @@ Es un certificado digital que permite al estudiante tener participación en los 
 
 Se basa en la valoración de expedientes académicos adquiridos en sistemas educativos internacionales de una forma semejante y regulada. Incorpora, además, las notas de Pruebas de Competencias Específicas realizadas en la UNED, así como otros servicios requeridos por el alumno.
 
----
+* * *
 
 ### ¿Quién puede hacer las PCE y cuáles son los requisitos?
 
 a) Estudiantes de la **Unión Europea o de países con acuerdo internacional**, cuyos países han suscrito acuerdo de reciprocidad con España y que tengan alguno de estos estudios:
 
-*  • Título de Bachillerato Europeo.
+-   • Título de Bachillerato Europeo.
 
-*  • Diploma de Bachillerato Internacional.
+-   • Diploma de Bachillerato Internacional.
 
-*  • Titulación equivalente al Bachillerato del Sistema Educativo Español.
+-   • Titulación equivalente al Bachillerato del Sistema Educativo Español.
 
 b) Estudiantes **internacionales extracomunitarios**, cuyos países no hayan suscrito acuerdo internacional de reciprocidad con España, siempre y cuando dispongan de una de las siguientes titulaciones:
 
-*  • [Título de bachillerato homologado]({{< ref "/como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Título de bachillerato homologado") o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
+-   • [Título de bachillerato homologado]({{< ref "/como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Título de bachillerato homologado") o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
 
-*  • Estudios equivalentes al Bachillerato español homologado cursados en un país de la UE, pero que no proporciona acceso a la universidad en el país de origen.
+-   • Estudios equivalentes al Bachillerato español homologado cursados en un país de la UE, pero que no proporciona acceso a la universidad en el país de origen.
 
----
+* * *
 
 ### ¿De cuántas materias de Pruebas de Competencias Específicas hay que examinarse?
 
@@ -64,13 +57,13 @@ b) Estudiantes **internacionales extracomunitarios**, cuyos países no hayan sus
 
 UNEDasiss ofrece presentar un máximo de 6 materias, de acuerdo a los siguientes casos:
 
-1. • Tienen la obligación aquellos estudiantes de presentarse a **6 materias** de PCE, cuando así **lo requiera la universidad** a la que quiera optar plaza. O bien, cuando la **universidad le exija adaptar las materias de PCE a EBAU**.
+1.  • Tienen la obligación aquellos estudiantes de presentarse a **6 materias** de PCE, cuando así **lo requiera la universidad** a la que quiera optar plaza. O bien, cuando la **universidad le exija adaptar las materias de PCE a EBAU**.
 
-2. • Los estudiantes **NO procedentes de Estados miembros de la Unión Europea o con Acuerdos Internacionales**, en su primera solicitud, se recomienda presentar al menos **4 materias**.
+2.  • Los estudiantes **NO procedentes de Estados miembros de la Unión Europea o con Acuerdos Internacionales**, en su primera solicitud, se recomienda presentar al menos **4 materias**.
 
-3. • Estudiantes **procedentes de la Unión Europea o con Acuerdos Internacionales**, en su primera solicitud, se recomienda presentar al menos **2 materias**. Salvo que la nota de admisión que se exija sea de 5 puntos.
+3.  • Estudiantes **procedentes de la Unión Europea o con Acuerdos Internacionales**, en su primera solicitud, se recomienda presentar al menos **2 materias**. Salvo que la nota de admisión que se exija sea de 5 puntos.
 
----
+* * *
 
 ### Modalidad de bachillerato UNED
 
@@ -80,32 +73,33 @@ Consta de tener que aprobar con una **calificación mayor de 5**, de al menos **
 
  **¡Pero cuidado!** No vale con aprobar 3 materias cualquiera, sino que tienen que ser unas materias en específico. Este tema acerca de las materias los puedes ver en nuestro post sobre Materias PCE.
 
----
+* * *
 
 ### Oferta de asignaturas
 
 Las materias de estas PCE dependerán de 2 criterios:
 
-1. 1- A qué universidad quieres ingresar.
+1.  1- A qué universidad quieres ingresar.
 
-2. 2- El grado universitario para el que quieres optar.
+2.  2- El grado universitario para el que quieres optar.
 
 Cabe destacar, que cada universidad se rige por sus propios criterios de admisión, y los requisitos varían de una institución a otra.
 
 Entre las materias que puedes elegir están:
 
-1. • **Troncales generales:** Francés, Historia de España, Inglés, Lengua Castellana y Literatura.
+1.  • **Troncales generales:** Francés, Historia de España, Inglés, Lengua Castellana y Literatura.
 
-2. • **Troncales de modalidad:** Fundamentos del Arte, Latín, Matemáticas, Matemáticas aplicadas a las Ciencias Sociales.
+2.  • **Troncales de modalidad:** Fundamentos del Arte, Latín, Matemáticas, Matemáticas aplicadas a las Ciencias Sociales.
 
-3. • **Troncales de opción:** Biología, Dibujo Técnico, Diseño, Economía de la Empresa, Física, Geografía, Geología, Historia de la Filosofía, Historia del Arte, Química.
+3.  • **Troncales de opción:** Biología, Dibujo Técnico, Diseño, Economía de la Empresa, Física, Geografía, Geología, Historia de la Filosofía, Historia del Arte, Química.
 
 ##### `¡ATENCIÓN!`
+
 ##### `Este punto es muy importante, ya que la elección de presentar unas materias u otras, será un factor determinante en tu acceso a la universidad. Una elección errada podrá perjudicar unas excelentes calificaciones, si no cumples con los requisitos exigidos.`
 
 Pero no te preocupes, si tienes dudas de cuáles materias debes escoger, asesórate con nuestro equipo de Ongazi para que todo marche por buen camino.
 
----
+* * *
 
 ### ¿Cómo son las Pruebas de Competencias Específicas?
 
@@ -117,7 +111,7 @@ Si quieres echar un vistazo para descubrir cómo son los exámenes, en nuestra w
 
 Con estos modelos puedes ir familiarizándote, y por supuesto, **si necesitas preparación PCE-UNED cuenta con nosotros** para recargarte las pilas e ingreses a la universidad española que tú quieres.
 
----
+* * *
 
 ### ¿Debo volver a examinarme si tengo las PCE aprobadas en el año anterior?
 
@@ -131,7 +125,7 @@ Una vez hecho este cálculo, **la Acreditación obtenida tiene una validez de 2 
 
 3.Para poder **acreditar una modalidad de bachillerato**, se tomarán en cuenta las PCE o pruebas realizadas en la UNED en el año de la convocatoria y las de los 2 cursos anteriores. En este caso, no necesitas presentar de nuevo las PCE ya superadas.
 
----
+* * *
 
 ### ¿Dónde puedo presentar las PCE?
 
@@ -205,7 +199,6 @@ A continuación, te dejamos las diferentes ciudades dentro de España y otras ci
 • VIZCAYA
 • ZAMORA
 
-
 ### Centros examen PCE UNED extranjero
 
 • BATA
@@ -236,7 +229,7 @@ A continuación, te dejamos las diferentes ciudades dentro de España y otras ci
 • TEL AVIV
 • TRINIDAD Y TOBAGO
 
----
+* * *
 
 ### ¿Cómo se gestiona la documentación necesaria para ingresar en la UNED y realizar las PCE?
 
@@ -244,6 +237,6 @@ En Ongazi te guiamos y asesoramos en todo el proceso administrativo, tanto en lo
 
 Ahora que ya lo sabes ¡Contáctanos y prepárate con nosotros en Ongazi para que ingreses a la universidad española que tú quieres!
 
-###### “Se parte del futuro y aprende de una manera genial y diferente en Ongazi, donde el saber no conoce fronteras.”
+###### "Se parte del futuro y aprende de una manera genial y diferente en Ongazi, donde el saber no conoce fronteras."
 
----
+* * *

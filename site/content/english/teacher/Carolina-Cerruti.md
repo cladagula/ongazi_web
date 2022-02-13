@@ -2,11 +2,11 @@
 title: "Carolina Cerruti"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Licenciada en Comunicación Social "
 # teacher portrait
-image: "images/teachers/Carolina-Cerruti.jpg"
+image: "images/teachers/Carolina-Cerruti.webp"
 # course
 course: "Historia de España"
 # biography

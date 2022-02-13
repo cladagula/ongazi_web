@@ -2,11 +2,11 @@
 title: "Andres Villada"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Arquitecto"
 # teacher portrait
-image: "images/teachers/Andres-Villada.jpg"
+image: "images/teachers/Andres-Villada.webp"
 # course
 course: "Dibujo Técnico"
 # biography

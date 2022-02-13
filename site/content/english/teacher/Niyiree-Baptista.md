@@ -2,11 +2,11 @@
 title: "Niyireé Baptista"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Licenciada en Historia | Licenciada en Educación"
 # teacher portrait
-image: "images/teachers/Niyiree-Baptista.jpg"
+image: "images/teachers/Niyiree-Baptista.webp"
 # course
 course: "Lengua Castellana y Literatura"
 # biography

@@ -2,11 +2,11 @@
 title: "Brenda Gómez"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Licenciada en Geografía"
 # teacher portrait
-image: "images/teachers/Brenda-Gomez.jpg"
+image: "images/teachers/Brenda-Gomez.webp"
 # course
 course: "Geología"
 # biography

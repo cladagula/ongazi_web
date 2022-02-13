@@ -1,21 +1,14 @@
 ---
-title: "10 pasos para ingresar a una universidad española"
-date: 2020-06-02T15:27:17+01:00
+title: 10 pasos para ingresar a una universidad española
+date: 2020-06-02T14:27:17.000Z
 draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.webp"
-# meta description
-description : "¿Planeas hacer tus estudios superiores en España? Estos 10 pasos para ingresar a una universidad española, te ofrecerán toda la info que necesitas saber."
-# post thumbnail
-image: "images/blog/post-1.webp"
-# post author
-author: "Nerlis Moreau"
-# taxonomy
-categories: ["Noticias", "Publicaciones"]
-tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]
-# type
-type: "post1"
-
+bg_image: images/backgrounds/page-title.webp
+description: ¿Planeas hacer tus estudios superiores en España? Estos 10 pasos para ingresar a una universidad española, te ofrecerán toda la info que necesitas saber.
+image: images/blog/post-1.webp
+author: Nerlis Moreau
+categories: [Noticias, Publicaciones]
+tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
+type: post1
 ---
 
 Estudiar en España es una experiencia maravillosa. Posiblemente estás leyendo este post porque quieres o te interesa ir a estudiar la universidad a España. Pero **¿conoces qué debes hacer para ingresar a una universidad española?**
@@ -32,10 +25,9 @@ Si realizas tu preparación con Ongazi, para ingresar a una universidad español
 
 Cuando leas estos 10 pasos, en los que te explicaremos toda la información necesaria sobre ingresar a una universidad española para extranjeros, podrás organizarte y lograr tu objetivo de iniciar tus estudios universitarios en España.
 
----
+* * *
 
 ### Haz tu checklist con estos 10 pasos para ingresar a una universidad española
-
 
 #### 1. Finalizar el bachillerato
 
@@ -63,9 +55,7 @@ En este paso debes considerar varias puntos importantes que te ayudarán al éxi
 
 Para lograr tu objetivo tienes que prepararte y organizarte con un buen plan de estudio. Asimilar y comprender el temario requiere tiempo y dedicación.
 
-Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En https://ongazi.com tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
-
- 
+Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En <https://ongazi.com> tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
 
 ### Listo para ingresar a una universidad española
 
@@ -75,13 +65,13 @@ Este proceso de inscripción se realiza **directamente por la página web de la 
 
 Qué te piden:
 
-*  • datos personales.
+-   • datos personales.
 
-*  • el certificado o volante de homologación del bachillerato.
+-   • el certificado o volante de homologación del bachillerato.
 
-*  • las notas del bachillerato en tu país (en caso de no tener dicha homologación finalizada).
+-   • las notas del bachillerato en tu país (en caso de no tener dicha homologación finalizada).
 
-*  • certificado de idioma (en caso de tenerlo).
+-   • certificado de idioma (en caso de tenerlo).
 
 Cobra especial relevancia presentarse siempre en la primera convocatoria, llamada ordinaria, dado el orden de prelación de plazas universitarias.
 
@@ -119,4 +109,4 @@ Posiblemente esta información pudiera cambiar. Por lo que iremos actualizando e
 
 ¡Cualquier duda que tengas no dudes en contactarnos!
 
----
+* * *
