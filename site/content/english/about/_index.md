@@ -2,9 +2,9 @@
 title: "Sobre Nosotros"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/about-page.webp"
 # meta description
 description : "Creemos en el poder que tiene la educación por Internet y sabemos cómo despertar tu ingenio. Por eso, creamos metodologías didácticas interactivas, en una plataforma de educación en línea moderna y fácil de usar, que te acompaña a donde quiera que vayas. Se parte del futuro y aprende de una manera genial y diferente en Ongazi, donde el saber no conoce fronteras."
 ---
@@ -18,6 +18,8 @@ Nuestro propósito es guiarte y asesorarte a lo largo de este camino de aprendiz
 Nuestros excelentes profesores, se apoyan de metodologías didácticas dinámicas y adaptadas a las formas de aprendizajes de hoy en día, que te llevarán al éxito en la presentación de la prueba que te ingresará a la universidad. Asimismo, nuestros asesores te ofrecerán las mejores estrategias y te ayudarán a gestionar los trámites necesarios para tu ingreso a la universidad en España.
 
 Te garantizamos que tu experiencia e interacción en Ongazi sea cordial y eficiente de principio a fin. Queremos que te sientas a gusto en todo momento durante el curso y que vayas avanzando progresivamente para asegurar tu ingreso a la universidad.
+
+---
 
 ## ¿Por qué Ongazi?
 

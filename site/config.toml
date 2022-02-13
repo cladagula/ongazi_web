@@ -44,7 +44,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.webp"
 # Meta data
 description = "Acedemia Ongazi | Cursos de Acceso a las Universidades en España"
 author = "Tuataras.LLC"
