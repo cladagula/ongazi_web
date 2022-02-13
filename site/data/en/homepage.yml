@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/banner-1.webp"
   slider_item:
     # slider item loop
     - title : "Estudia en las Universidades Españolas 🇪🇸"
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/banner-feature.webp"
   feature_item:
     # feature item loop
     - name : "Clases Online en Directo"

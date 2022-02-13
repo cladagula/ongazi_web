@@ -7,11 +7,11 @@ date: "2022-05-01T08:00:17"
 # post save as draft
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Apertura de Inscripciones Cursos PCE | EBAU para Curso 2022"
 # Event image
-image: "images/events/apertura.jpg"
+image: "images/events/apertura.webp"
 # location
 location: "Plataforma Ongazi"
 # entry fee
