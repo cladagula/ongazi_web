@@ -10,5 +10,7 @@
     {
       "path": "[[workspace]]/static/images/blog"
     }
-  ]
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo"
 }
