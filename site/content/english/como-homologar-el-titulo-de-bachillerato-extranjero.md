@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-Si estás decidido a realizar tus estudios universitarios en una universidad española, entonces este post te ayudará a agilizar ese proceso. Uno de los pasos básicos para que [ingreses en una universidad en España]({{< ref "/10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española") es **homologar el título de bachillerato.**
+Si estás decidido a realizar tus estudios universitarios en una universidad española, entonces este post te ayudará a agilizar ese proceso. Uno de los pasos básicos para que [ingreses en una universidad en España]({{< ref "10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española") es **homologar el título de bachillerato.**
 
 La **homologación del bachillerato extranjero** es el trámite a través del cual el Ministerio de Educación declara, que los estudios cursados por un alumno en un país extranjero, son equivalentes al nivel de bachillerato en el sistema educativo español.
 

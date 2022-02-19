@@ -1,6 +1,6 @@
 ---
 title: Cuáles son las normas de exámenes UNEDasiss
-date: 2020-10-21T14:27:17.000Z
+date: 2021-10-21T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: En este post te vamos a especificar cuáles son las normas de exámenes UNEDasiss que necesitas conocer para presentar las PCE o EBAU.

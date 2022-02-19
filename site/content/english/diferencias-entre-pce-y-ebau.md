@@ -1,6 +1,6 @@
 ---
 title: Diferencias entre PCE y EBAU
-date: 2020-09-09T14:27:17.000Z
+date: 2021-09-09T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Entérate cuáles son las diferencias entre PCE y EBAU, qué son los exámenes de selectividad y qué debes preparar para ingresar a las universidades españolas.
@@ -23,7 +23,7 @@ La PCE y la EBAU son pruebas de selectividad que deben presentar los bachilleres
 
 #### ¿Qué son las PCE?
 
- [**Las PCE son las Pruebas de Competencias Específicas.**]({{< ref "/pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas.md" >}} "Las PCE son las Pruebas de Competencias Específicas.")
+ [**Las PCE son las Pruebas de Competencias Específicas.**]({{< ref "pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas.md" >}} "Las PCE son las Pruebas de Competencias Específicas.")
 
 Son las pruebas de selectividad que deben presentar los bachilleres extranjeros para ingresar a una universidad española.
 

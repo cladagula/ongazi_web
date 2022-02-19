@@ -1,6 +1,6 @@
 ---
 title: Profesiones más demandadas del futuro
-date: 2020-10-12T14:27:17.000Z
+date: 2021-10-12T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Si no estás seguro qué estudiar en la universidad, descubre cuáles son algunas profesiones más demandadas del futuro.

@@ -1,6 +1,6 @@
 ---
 title: Requisitos para ingresar a la Universidad Española 2021
-date: 2020-08-26T14:27:17.000Z
+date: 2021-08-26T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Ongazi te explica los requisitos para ingresar a la universidad española que son necesarios para que alcances tu objetivo.

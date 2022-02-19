@@ -1,6 +1,6 @@
 ---
 title: Entérate qué es la UNEDasiss para bachilleres extranjeros
-date: 2020-09-29T14:27:17.000Z
+date: 2021-09-29T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Conoce sobre la UNEDasiss, de qué se encarga, qué es la Acreditación UNEDasiss para bachilleres extranjeros y en que los beneficia.

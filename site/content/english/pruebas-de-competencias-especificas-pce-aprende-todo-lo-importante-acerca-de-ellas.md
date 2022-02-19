@@ -45,7 +45,7 @@ a) Estudiantes de la **Unión Europea o de países con acuerdo internacional**, 
 
 b) Estudiantes **internacionales extracomunitarios**, cuyos países no hayan suscrito acuerdo internacional de reciprocidad con España, siempre y cuando dispongan de una de las siguientes titulaciones:
 
--   • [Título de bachillerato homologado]({{< ref "/como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Título de bachillerato homologado") o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
+-   • [Título de bachillerato homologado]({{< ref "como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Título de bachillerato homologado") o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
 
 -   • Estudios equivalentes al Bachillerato español homologado cursados en un país de la UE, pero que no proporciona acceso a la universidad en el país de origen.
 

@@ -1,6 +1,6 @@
 ---
 title: Qué no te dicen acerca de la EBAU para bachilleres extranjeros
-date: 2020-09-17T14:27:17.000Z
+date: 2021-09-17T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Descubre todo acerca de la EBAU para bachilleres extranjeros y cómo se clasifican las materias que debes presentar según las troncales.
@@ -13,7 +13,7 @@ type: post1
 
 En este post te vamos a dejar la información que necesitas conocer respecto a la selectividad EBAU para bachilleres extranjeros.
 
-A pesar de que ya te contamos en nuestro  [**post anterior**]({{< ref "/diferencias-entre-pce-y-ebau.md" >}} "Diferencias entre PCE y EBAU"), que la EBAU es la prueba que deben presentar los bachilleres españoles para ingresar a las universidades en su país, algunas universidades solicitan a los bachilleres extranjeros que presenten esta prueba, como requerimiento adicional de ingreso.
+A pesar de que ya te contamos en nuestro  [**post anterior**]({{< ref "diferencias-entre-pce-y-ebau.md" >}} "Diferencias entre PCE y EBAU"), que la EBAU es la prueba que deben presentar los bachilleres españoles para ingresar a las universidades en su país, algunas universidades solicitan a los bachilleres extranjeros que presenten esta prueba, como requerimiento adicional de ingreso.
 
 Es por eso, que nos parece importante que conozcas cómo se distribuyen las asignaturas PCE y cómo se dividen entre las diferentes troncales y así te vayas familiarizando con esta informacion.
 

@@ -1,6 +1,6 @@
 ---
 title: Oferta de asignaturas de Pruebas de Competencias Específicas
-date: 2020-10-27T14:27:17.000Z
+date: 2021-10-27T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Descubre la oferta de asignaturas de Pruebas de Competencias Específicas que ofrece UNEDasiss y elije las que favorezcan tu preparación.
