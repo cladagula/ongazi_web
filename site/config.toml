@@ -47,7 +47,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.webp"
 # Meta data
-description = "Acedemia Ongazi | Cursos de Acceso a las Universidades en España"
+description = "Academia Online pre Universitaria para el Acceso a las Universidades de España y Europa. Especialistas en preparación de Pruebas PCE / EBAU."
 author = "Tuataras.LLC"
 # contact info
 address = "1480 NW North River Drive, Miami"
@@ -75,7 +75,7 @@ mailchimp_form_name = "b_7a43a10038d86bf9269b2051a_7152297209" # replace this co
 # google map
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCTGUzwvERz2SlerkMYbHEIs4nNlH5rXeM&libraries=places"
 map_latitude = "25.785833151839082"
 map_longitude = "-80.22011770146483"
 map_marker = "images/marker.png" # marker size 37*55 px
