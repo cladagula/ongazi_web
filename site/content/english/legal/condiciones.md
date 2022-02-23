@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Condiciones del Instructor"
 draft: false
 # page title background image

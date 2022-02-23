@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Dayana Barrios"
 draft: false
 # page title background image

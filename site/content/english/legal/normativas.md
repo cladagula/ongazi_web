@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Normativas para la Grabación de Clases"
 draft: false
 # page title background image

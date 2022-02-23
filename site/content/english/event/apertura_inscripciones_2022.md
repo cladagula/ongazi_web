@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Apertura de Inscripciones Cursos PCE | EBAU - 2022"
 # Schedule page publish date
 publishDate: "2022-01-01T00:00:00Z"

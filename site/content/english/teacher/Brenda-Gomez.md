@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Brenda Gómez"
 draft: false
 # page title background image

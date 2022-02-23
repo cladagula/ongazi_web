@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Jaime Ortiz"
 draft: false
 # page title background image

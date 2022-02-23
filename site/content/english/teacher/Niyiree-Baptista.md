@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Niyireé Baptista"
 draft: false
 # page title background image

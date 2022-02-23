@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Isabel Nuñez"
 draft: false
 # page title background image

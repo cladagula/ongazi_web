@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Aviso Legal"
 draft: false
 # page title background image

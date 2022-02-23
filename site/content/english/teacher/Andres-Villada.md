@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Andres Villada"
 draft: false
 # page title background image

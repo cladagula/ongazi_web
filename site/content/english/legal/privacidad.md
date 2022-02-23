@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Política de privacidad del sitio web"
 draft: false
 # page title background image

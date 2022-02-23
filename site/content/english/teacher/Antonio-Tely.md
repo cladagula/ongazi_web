@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Antonio Tely"
 draft: false
 # page title background image

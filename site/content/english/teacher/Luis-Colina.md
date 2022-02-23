@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Luis Colina"
 draft: false
 # page title background image

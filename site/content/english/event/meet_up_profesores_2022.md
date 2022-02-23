@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Primer Meet-Up Profesores - 2022"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
@@ -15,7 +16,7 @@ image: "images/events/meetup.webp"
 # location
 location: "Plataforma Ongazi"
 # entry fee
-#fee: "Desde: $0"
+fee: "Sin Costo"
 # apply url
 apply_url : "#"
 # event speaker

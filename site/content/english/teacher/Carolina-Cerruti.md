@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Carolina Cerruti"
 draft: false
 # page title background image
