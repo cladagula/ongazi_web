@@ -31,7 +31,7 @@ link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-#link = "plugins/bootstrap/bootstrap.min.js"
+link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
@@ -39,7 +39,7 @@ link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
 link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
-#link = "plugins/google-map/gmap.js"
+link = "plugins/google-map/gmap.js"
 
 
 
@@ -73,12 +73,12 @@ mailchimp_form_action = "https://ongazi.us20.list-manage.com/subscribe/post?u=7a
 mailchimp_form_name = "b_7a43a10038d86bf9269b2051a_7152297209" # replace this code with yours
 
 # google map
-# [params.map]
-# enable = false
-# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCTGUzwvERz2SlerkMYbHEIs4nNlH5rXeM&libraries=places"
-# map_latitude = "25.785833151839082"
-# map_longitude = "-80.22011770146483"
-# map_marker = "images/marker.png" # marker size 37*55 px
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCTGUzwvERz2SlerkMYbHEIs4nNlH5rXeM&libraries=places"
+map_latitude = "25.785833151839082"
+map_longitude = "-80.22011770146483"
+map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
