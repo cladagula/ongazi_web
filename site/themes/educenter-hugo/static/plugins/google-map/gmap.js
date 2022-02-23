@@ -10,7 +10,7 @@ function initialize() {
   var style = [{
       "featureType": "landscape",
       "stylers": [{
-          "hue": "#FFAD00"
+          "hue": "#7F63F4"
         },
         {
           "saturation": 50.2
@@ -26,7 +26,7 @@ function initialize() {
     {
       "featureType": "road.highway",
       "stylers": [{
-          "hue": "#FFAD00"
+          "hue": "#7F63F4"
         },
         {
           "saturation": -19.8
@@ -42,7 +42,7 @@ function initialize() {
     {
       "featureType": "road.arterial",
       "stylers": [{
-          "hue": "#FFAD00"
+          "hue": "#7F63F4"
         },
         {
           "saturation": 72.4
@@ -58,7 +58,7 @@ function initialize() {
     {
       "featureType": "road.local",
       "stylers": [{
-          "hue": "#FFAD00"
+          "hue": "#7F63F4"
         },
         {
           "saturation": 74.4
@@ -74,7 +74,7 @@ function initialize() {
     {
       "featureType": "water",
       "stylers": [{
-          "hue": "#00FFA6"
+          "hue": "#00A2FF"
         },
         {
           "saturation": -63.2
@@ -90,7 +90,7 @@ function initialize() {
     {
       "featureType": "poi",
       "stylers": [{
-          "hue": "#FFC300"
+          "hue": "#7F63F4"
         },
         {
           "saturation": 54.2
@@ -107,7 +107,7 @@ function initialize() {
   var mapOptions = {
     center: nottingham,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
-    backgroundColor: "#000",
+    backgroundColor: "#7F63F4",
     zoom: 15,
     panControl: false,
     zoomControl: true,

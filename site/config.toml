@@ -164,29 +164,24 @@ hasChildren = true
   url = "teacher"
 
 [[Languages.en.menu.main]]
-name = "Exámenes"
-url = "https://shop.ongazi.com"
-weight = 3
-  
-[[Languages.en.menu.main]]
 name = "Contacto"
 url = "contact"
-weight = 4
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "Regístrate"
 url = "https://app.ongazi.com/register"
-weight = 6
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Iniciar Sesión"
 url = "https://app.ongazi.com/"
-weight = 7
+weight = 6
 
 # footer menu
 
