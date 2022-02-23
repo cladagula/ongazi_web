@@ -1,4 +1,5 @@
 ---
+sitemap_ignore: true
 title: "Rutas de Aprendizaje"
 draft: false
 # page title background image
