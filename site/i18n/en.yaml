@@ -1,5 +1,5 @@
 - id: read_more
-  translation: Leer Mas
+  translation: Leer Más
 
 - id: contact_form
   translation: Formulario de Contacto
@@ -17,10 +17,10 @@
   translation: Subscribete
 
 - id: contact_us
-  translation: Contactanos
+  translation: Contáctanos
 
 - id: latest_article
-  translation: Ultimo Articulo
+  translation: Últimos Articulos
 
 - id: categories
   translation: Categorias
@@ -44,7 +44,7 @@
   translation: Tiempo
 
 - id: category
-  translation: Categoria
+  translation: Categoría
 
 - id: related_course
   translation: Cursos Relacionados
@@ -62,7 +62,7 @@
   translation: Profesor
 
 - id: location
-  translation: Locación
+  translation: Dirección
 
 - id: entry_fee
   translation: Costos
@@ -95,7 +95,7 @@
   translation: Noticias
 
 - id: call
-  translation: Whatsapp
+  translation: WhatsApp
 
 - id: email
   translation: Correo

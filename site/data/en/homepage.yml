@@ -15,7 +15,7 @@ slider:
         link : "https://app.ongazi.com/register"
 
     # slider item loop
-    - title : "Cursos Online PCE y EBAU Economicos"
+    - title : "Cursos Online PCE y EBAU Económicos"
       content : ""
       animation_in : "up"
       animation_out : "right"
@@ -66,12 +66,12 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "Recomendaciones para tus rutas de aprendizaje"
+  title : "Recomendaciones para tus Rutas de Aprendizaje"
   image : "images/about/about-us.webp"
   content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Es por esta razón, que creamos para ti “Recomendaciones para tus rutas de aprendizajes”. En este pack te ofrecemos, de acuerdo a nuestra experiencia, destacadas recomendaciones de las asignaturas que mejor se adaptan al perfil académico de la carrera que deseas estudiar en la universidad."
   button:
     enable : true
-    label : "Mas Información"
+    label : "Más Información"
     link : "course"
 
 
@@ -97,7 +97,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.webp"
   title : "Tus Rutas de Aprendizaje"
-  content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Si estás seguro y tienes claro qué quieres, te ofrecemos en “Tus rutas de aprendizaje”, la plena libertad de escoger por ti mismo las asignaturas que consideres que necesitas preparar para tu ingreso a la universidad española que deseas."
+  content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Si estás seguro y tienes claro qué quieres, te ofrecemos en “Tus Rutas de Aprendizaje”, la plena libertad de escoger por ti mismo las asignaturas que consideres que necesitas preparar para tu ingreso a la universidad española que deseas."
   # video link
   video_link : "https://www.youtube.com/watch?v=2GF-WZr-VWU"
 

@@ -12,7 +12,7 @@
       <div class="col-lg-7 mb-4 mb-lg-0">
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Nombre Completo">
-          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Correo Electronico">
+          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Correo Electrónico">
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Asunto">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="Mensaje"></textarea>
           <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
@@ -20,9 +20,9 @@
       </div>
       <div class="col-lg-5 content">
         {{ .Content }}
-        <a href="https://wa.me/{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a>
-        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
-        <p>{{ site.Params.address | markdownify }}</p>
+        <strong>{{ i18n "call" |  }} : </strong><a href="https://wa.me/{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile | markdownify }}</a>
+        <strong>{{ i18n "email" |  }} : </strong><a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
+        <strong>{{ i18n "location" |  }} : </strong><p>{{ site.Params.address | markdownify }}</p>
       </div>
     </div>
   </div>

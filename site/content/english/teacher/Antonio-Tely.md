@@ -9,7 +9,7 @@ description : "Ingeniero Electrico"
 # teacher portrait
 image: "images/teachers/Antonio-Tely.webp"
 # course
-course: "Ingés y Francés"
+course: "Inglés y Francés"
 # biography
 bio: ""
 # interest

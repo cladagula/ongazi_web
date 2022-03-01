@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # about image
 image: "images/about/about-page.webp"
 # meta description
-description : "Creemos en el poder que tiene la educación por Internet y sabemos cómo despertar tu ingenio. Por eso, creamos metodologías didácticas interactivas, en una plataforma de educación en línea moderna y fácil de usar, que te acompaña a donde quiera que vayas. Se parte del futuro y aprende de una manera genial y diferente en Ongazi, donde el saber no conoce fronteras."
+description : "Creemos en el poder que tiene la educación por Internet y sabemos cómo despertar tu ingenio. Por eso, creamos metodologías didácticas interactivas, en una plataforma de educación en línea, moderna y fácil de usar, que te acompaña a donde quiera que vayas. Se parte del futuro y aprende de una manera genial y diferente en Ongazi, donde el saber no conoce fronteras."
 ---
 
 ## ¿Quiénes Somos?
